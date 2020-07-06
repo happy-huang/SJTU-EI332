@@ -1,0 +1,11 @@
+module clock_and_mem_clock( clock, outclock);
+	input clock;
+	output outclock;
+	
+	outclock = 1'b0;
+	always(@posedge clock)
+		outclock <= ~outclock;
+endmodule
+		
+	
+	

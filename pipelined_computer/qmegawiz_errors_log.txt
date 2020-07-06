@@ -1,0 +1,36 @@
+
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 02PM:53:31>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 02PM:57:06>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 03PM:29:45>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 03PM:29:45>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 03PM:29:48>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 03PM:29:51>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/pipelined_computer/source/lpm_ram_dq_dram.v
+
+Jun 10 03PM:29:58>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

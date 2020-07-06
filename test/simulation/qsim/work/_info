@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\test\simulation\qsim
+vtest
+Z1 !s100 m41U`CecIA^Z34>UB3IlC0
+Z2 Il_2VF;YgYn>I_aBVHDnAB3
+Z3 VbJ=]0PK;8i@4ceHH<5`Gk2
+Z4 dE:\software\altera\13.0\project\test\simulation\qsim
+Z5 w1587043679
+Z6 8test.vo
+Z7 Ftest.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|test.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1587043680.609000
+Z12 !s107 test.vo|
+!s101 -O0
+vtest_vlg_check_tst
+!i10b 1
+Z13 !s100 EgScLECiPBgiHIf4dfRml2
+Z14 IC=inO]cULEkU2B=e@o06`3
+Z15 VE:bd_:6_i;@>R4V@kmL2:3
+R4
+R5
+Z16 8test.vt
+Z17 Ftest.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z18 !s108 1587043680.745000
+Z19 !s107 test.vt|
+Z20 !s90 -work|work|test.vt|
+!s101 -O0
+R10
+vtest_vlg_sample_tst
+!i10b 1
+Z21 !s100 _B9^a`456Z4MWf7zeBBoj1
+Z22 IJ_]jGc]IoA>T>:oY35M6b3
+Z23 VIWZ9_Z`=j?ck`mAlUaF]D3
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vtest_vlg_vec_tst
+!i10b 1
+!s100 bI_mDJoPa?PdZXAIFAOV03
+I6;B1`@S<kD8:K<@ER87]U2
+Z24 Va5b;6:2=HDheAU5FQATGI3
+R4
+R5
+R16
+R17
+Z25 L0 181
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10

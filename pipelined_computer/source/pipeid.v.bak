@@ -1,0 +1,60 @@
+module pipeid (mwreg,mrn,ern,ewreg,em2reg,mm2reg,dpc4,inst,ins, // 为什么要ins？
+					
+               wrn,wdi,ealu,malu,mmo,wwreg,
+					
+					mem_clock,resetn,
+					
+					bpc,jpc,pcsource,wpcir,
+					
+					dwreg,dm2reg,dwmem,daluc,daluimm,
+					
+					da,db,dimm,dsa,drn,dshift,djal,
+					
+					mzero,drs,drt/*,npc*/,ebubble,dbubble);  // mzero/ ebubble/ dbubble ???
+
+					
+	input [4:0] mrn, wrn, ern, drs, drt;
+	input em2reg,mm2reg,ewreg,wwreg,mwreg,mem_clock,resetn;
+	input [31:0] dpc4,ins, inst, wdi, ealu, malu, mmo;  //wdi: wb阶段返回值
+	
+	output wire dwreg,dm2reg,dwmem,daluimm,dshift,djal,wpcir;
+	output wire [1:0] pcsource;
+	output wire [3:0] daluc;
+	output wire [4:0] drn;
+	output wire [31:0] da, db, dimm, dsa, bpc, jpc; 
+	
+	wire [5:0] op =   inst[31:26];
+	wire [4:0] rs =   inst[25:21];
+	wire [4:0] rt =   inst[20:16];
+	wire [4:0] rd =   inst[15:11];
+	assign dsa = {27'b0, inst[10:6]};
+	wire [5:0] func = inst[5:0];
+	
+	wire z = (da==db); // ????
+	
+
+	wire wmem, wreg, regrt, m2reg,shift,aluimm, jal, sext;
+	wire [3:0] aluc;
+	sc_cu cu(op, func, z, wmem, wreg, regrt, m2reg, aluc, shift,aluimm, pcsource, jal, sext);
+	
+	wire [31:0] qa,qb;
+	regfile rf(rs,rt,wdi,wrn,wwreg,mem_clock,resetn,qa,qb);
+	
+	assign wpcir = ~(em2reg & ((ern == rs) | (ern == rt)) & ~wmem ) // lw引发的停顿
+	
+	assign dwreg = wpcir?wreg:1'b0;
+	assign dm2reg = wpcir?dm2reg_tmp:1'b0;
+	assign dwmem = wpcir?dwmem_tmp:1'b0;
+	assign daluimm = wpcir?daluimm_tmp:1'b0;
+	assign dshift = wpcir?dshift_tmp:1'b0;
+assign djal = wpcir?djal_tmp:1'b0;
+assign daluc = wpcir?daluc_tmp:4'b0;
+assign drn = dregrt?rt:rd;
+	
+	
+	
+	
+	
+	
+	
+	

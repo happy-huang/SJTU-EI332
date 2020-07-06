@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\counter18\simulation\qsim
+vcounter18
+Z1 !s100 o3fZkI8B`lM0oIfAB80>g2
+Z2 I_ClM7=Dk0=aN:]0Qb]Aoj2
+Z3 V8c<5WzLL^nbZ58nP7@?CU3
+Z4 dE:\software\altera\13.0\project\counter18\simulation\qsim
+Z5 w1587467270
+Z6 8counter18.vo
+Z7 Fcounter18.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|counter18.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1587467271.461000
+Z12 !s107 counter18.vo|
+!s101 -O0
+vcounter18_vlg_check_tst
+!i10b 1
+Z13 !s100 P:<j[[?ozoC4bb@MdIUiA1
+Z14 IB?mE9HDVnT>6fVRoWknKX0
+Z15 V6KUSLL<D8QG]A^RjLBB:Q3
+R4
+Z16 w1587467269
+Z17 8counter18.vt
+Z18 Fcounter18.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z19 !s108 1587467271.611000
+Z20 !s107 counter18.vt|
+Z21 !s90 -work|work|counter18.vt|
+!s101 -O0
+R10
+vcounter18_vlg_sample_tst
+!i10b 1
+Z22 !s100 j7ckA^m8NSU01LC<nS<7Z0
+Z23 I?ZehTMEA^<ooPIHDag7@42
+Z24 V=hRTbe[lPbk6B]U5SZX]g1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vcounter18_vlg_vec_tst
+!i10b 1
+Z25 !s100 ?mYe__K1VG:6AO?UfVFO:1
+Z26 I0]ez`j]X]Azmao<=OQ;QU3
+Z27 VaD^QS[@7fAeE<SSiYQmTJ0
+R4
+R16
+R17
+R18
+Z28 L0 229
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

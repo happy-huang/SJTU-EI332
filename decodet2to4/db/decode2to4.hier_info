@@ -1,0 +1,19 @@
+|decode2to4
+Y[0] <= nd1.DB_MAX_OUTPUT_PORT_TYPE
+Y[1] <= nd2.DB_MAX_OUTPUT_PORT_TYPE
+Y[2] <= nd3.DB_MAX_OUTPUT_PORT_TYPE
+Y[3] <= nd4.DB_MAX_OUTPUT_PORT_TYPE
+Ena => nd1.IN0
+Ena => nd2.IN0
+Ena => nd3.IN0
+Ena => nd4.IN0
+A1 => nd3.IN1
+A1 => nd4.IN1
+A1 => nd1.IN1
+A1 => nd2.IN1
+A2 => nd2.IN2
+A2 => nd4.IN2
+A2 => nd1.IN2
+A2 => nd3.IN2
+
+

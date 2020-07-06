@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\sc_computer\simulation\qsim
+vsc_computer
+Z1 ImBI_m=?i6e@QcU:ScFn0]3
+Z2 VKEJM1baE9C1E^4SXWmDVm2
+Z3 dE:\software\altera\13.0\project\sc_computer\simulation\qsim
+Z4 w1591534142
+Z5 8sc_computer.vo
+Z6 Fsc_computer.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|sc_computer.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 6GY3C4l`FezSzPWzf;D?B3
+!s85 0
+Z11 !s108 1591534143.285000
+Z12 !s107 sc_computer.vo|
+!s101 -O0
+vsc_computer_vlg_check_tst
+!i10b 1
+!s100 LLNK0m[;PfAlDk34R]20[2
+I?f0QENl`7N97LPK9ZQoE51
+Vl<K;hhcPiG:8jl@9CmCzH1
+R3
+Z13 w1591534140
+Z14 8sc_computer.vt
+Z15 Fsc_computer.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z16 !s108 1591534143.950000
+Z17 !s107 sc_computer.vt|
+Z18 !s90 -work|work|sc_computer.vt|
+!s101 -O0
+R9
+vsc_computer_vlg_sample_tst
+!i10b 1
+!s100 jh8K?[7DB_D6Wk@fVW2OM2
+I3K>oTI2hOGMNY`JY4hGj>3
+V`@=c]DbR[^o;fl4DI6g<63
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+vsc_computer_vlg_vec_tst
+!i10b 1
+!s100 N7:e3L9Jj<zLS<L`o<n7z2
+Ii`hXg__mci1ef:oN<P1gc2
+Z19 VmDHkRgb0GW[o2oea?bDTi1
+R3
+R13
+R14
+R15
+L0 2548
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9

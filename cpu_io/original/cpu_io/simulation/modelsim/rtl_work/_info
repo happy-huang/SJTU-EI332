@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\cpu_io\original\cpu_io\simulation\modelsim
+vsc_computer_main
+IB9Ba@5befX3hY8Y7oJXVA0
+V[WonVaRE>COH2;DiYCg4T2
+Z1 dE:\software\altera\13.0\project\cpu_io\original\cpu_io\simulation\modelsim
+w1589727735
+8E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_computer_main.v
+FE:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_computer_main.v
+L0 7
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+E:/software/altera/13.0/project/cpu_io/original/cpu_io/source -O0
+!i10b 1
+!s100 ^2di4YFNF]QDWP[07kQ>B2
+!s85 0
+!s108 1593566591.927000
+!s107 E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_computer_main.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/cpu_io/original/cpu_io/source|E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_computer_main.v|
+!s101 -O0
+vsc_cu
+!i10b 1
+!s100 MJ9^M7GzPMJl@d7zfL4Io2
+IoXodQ^XiA05l4ke=X8JG;3
+VAlN72Pg@l_c4ao;V0co7c3
+R1
+w1590131041
+8E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_cu.v
+FE:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_cu.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1593566592.437000
+!s107 E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_cu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/cpu_io/original/cpu_io/source|E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_cu.v|
+!s101 -O0
+R3
+R4
+vsc_datamem
+ITkB?=Th0Tf72Pl?f>zHMJ0
+Vabezo7ObWfd<^PeFdRYnU1
+R1
+w1589638604
+8E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_datamem.v
+FE:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_datamem.v
+L0 20
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 27a0dJ0m_DK4[>d:`Phez1
+!s85 0
+!s108 1593566592.293000
+!s107 E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_datamem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/cpu_io/original/cpu_io/source|E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_datamem.v|
+!s101 -O0
+vsc_instmem
+I^]5^h>`4zDWSkza7o]DLF2
+VkU`UIUgSeP=c3TJLN64XO2
+R1
+w1305084524
+8E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_instmen.v
+FE:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_instmen.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 _FNfg1acd^Nh1e@Zlk3YA1
+!s85 0
+!s108 1593566592.118000
+!s107 E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_instmen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/cpu_io/original/cpu_io/source|E:/software/altera/13.0/project/cpu_io/original/cpu_io/source/sc_instmen.v|
+!s101 -O0

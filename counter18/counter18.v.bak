@@ -1,0 +1,16 @@
+module counter18(clk, clr, ld, counter, data);
+input clk, clr, ld;
+input [4:0]data;
+output [4:0]counter;
+reg [4:0]counter;
+
+always@(posedge clk or negedge clr)
+	if (clr==0)
+		counter<=0;
+	else if(ld==1) 
+		counter<=data;
+	else if(counter>=17)
+		counter<=0;
+	else counter<=counter+1;
+
+endmodule;

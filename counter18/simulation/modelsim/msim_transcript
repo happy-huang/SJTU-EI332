@@ -1,0 +1,87 @@
+# Reading E:/software/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do counter18_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying E:\software\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied E:\software\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+E:/software/altera/13.0/project/counter18 {E:/software/altera/13.0/project/counter18/counter18.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module counter18
+# 
+# Top level modules:
+# 	counter18
+# 
+# vlog -vlog01compat -work work +incdir+E:/software/altera/13.0/project/counter18/simulation/modelsim {E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module counter18_vlg_tst
+# 
+# Top level modules:
+# 	counter18_vlg_tst
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  counter18_vlg_tst
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps counter18_vlg_tst 
+# Loading work.counter18_vlg_tst
+# Loading work.counter18
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#  Counter 18
+#        0.0ns 0 1 0  0 10000
+#        0.1ns 1 1 0  0 10000
+#        0.1ns 0 1 0  0 10000
+#        0.1ns 1 1 0  0 10000
+#        0.2ns 0 0 1  0 10000
+#        0.3ns 1 0 1 16 10000
+#        0.3ns 0 0 0 16 10000
+#        0.3ns 1 0 0 17 10000
+#        0.4ns 0 0 0 17 10000
+#        0.5ns 1 0 0  0 10000
+#        0.5ns 0 0 0  0 10000
+#        0.6ns 1 0 0  1 10000
+#        0.6ns 0 0 0  1 10000
+#        0.7ns 1 0 0  2 10000
+#        0.7ns 0 0 0  2 10000
+#        0.8ns 1 0 0  3 10000
+#        0.8ns 0 0 0  3 10000
+#        0.8ns 1 0 0  4 10000
+#        0.9ns 0 0 0  4 10000
+#        0.9ns 1 0 0  5 10000
+#        1.0ns 0 0 0  5 10000
+#        1.1ns 1 0 0  6 10000
+#        1.1ns 0 0 0  6 10000
+#        1.1ns 1 0 0  7 10000
+#        1.2ns 0 0 0  7 10000
+#        1.3ns 1 0 0  8 10000
+#        1.3ns 0 0 0  8 10000
+#        1.4ns 1 0 0  9 10000
+#        1.4ns 0 0 0  9 10000
+#        1.5ns 1 0 0 10 10000
+#        1.5ns 0 0 0 10 10000
+#        1.6ns 1 0 0 11 10000
+#        1.6ns 0 0 0 11 10000
+#        1.6ns 1 0 0 12 10000
+#        1.7ns 0 0 0 12 10000
+#        1.8ns 1 0 0 13 10000
+#        1.8ns 0 0 0 13 10000
+#        1.9ns 1 0 0 14 10000
+#        1.9ns 0 0 0 14 10000
+#        2.0ns 1 0 0 15 10000
+#        2.0ns 0 0 0 15 10000
+#        2.0ns 1 0 0 16 10000
+#        2.1ns 0 0 0 16 10000
+#        2.1ns 1 0 0 17 10000
+#        2.2ns 0 0 0 17 10000
+#        2.3ns 1 0 0  0 10000
+# Break in Module counter18_vlg_tst at E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt line 64
+# Simulation Breakpoint: Break in Module counter18_vlg_tst at E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt line 64
+# MACRO ./counter18_run_msim_rtl_verilog.do PAUSED at line 17

@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\pipelined_computer\simulation\qsim
+vpipelined_computer
+Z1 I1m7:cSjW6c96IdISW<>C72
+Z2 V@1LfAf4U[QIX3A[0e5z481
+Z3 dE:\software\altera\13.0\project\pipelined_computer\simulation\qsim
+Z4 w1593575236
+Z5 8pipelined_computer.vo
+Z6 Fpipelined_computer.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|pipelined_computer.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 SzCXR?7jDcLk`WS@1mY@m0
+!s85 0
+Z11 !s108 1593575238.009000
+Z12 !s107 pipelined_computer.vo|
+!s101 -O0
+vpipelined_computer_vlg_check_tst
+!i10b 1
+Z13 !s100 5A]IkdA:^J<;@?;bY097;3
+Z14 Izm=h=afa6hz;CNHdcX0]n2
+Z15 V>_UWP6mGado72@R;g?Hk20
+R3
+Z16 w1593575234
+Z17 8pipelined_computer.vt
+Z18 Fpipelined_computer.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z19 !s108 1593575238.871000
+Z20 !s107 pipelined_computer.vt|
+Z21 !s90 -work|work|pipelined_computer.vt|
+!s101 -O0
+R9
+vpipelined_computer_vlg_sample_tst
+!i10b 1
+Z22 !s100 HF_a^Mn]lN`NXCJ1Gzn@n0
+Z23 I8N@[_gA9P5TX<`>BSklFS1
+Z24 VC9nIKzf0olkHh1[GM=]8[2
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vpipelined_computer_vlg_vec_tst
+!i10b 1
+!s100 4P7?8do31zMG0RFYNW<UP0
+I^?Vd<?5I`j`I=KTC<_9Q[2
+Z25 V3L<?8P]5gFQ:<HJ=^Ca_P1
+R3
+R16
+R17
+R18
+Z26 L0 6003
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

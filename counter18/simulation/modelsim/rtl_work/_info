@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\counter18\simulation\modelsim
+vcounter18
+I?nC6jmJh3=Rnl7UKjIb8g0
+V8c<5WzLL^nbZ58nP7@?CU3
+Z1 dE:\software\altera\13.0\project\counter18\simulation\modelsim
+w1587457777
+8E:/software/altera/13.0/project/counter18/counter18.v
+FE:/software/altera/13.0/project/counter18/counter18.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 z>De7>eN5RSTJ0WKF:YF;3
+!s85 0
+!s108 1587460960.853000
+!s107 E:/software/altera/13.0/project/counter18/counter18.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/counter18|E:/software/altera/13.0/project/counter18/counter18.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+E:/software/altera/13.0/project/counter18 -O0
+vcounter18_vlg_tst
+!i10b 1
+!s100 UC41XSI>RfNMb5>AL22023
+ICLnKMiRT3jIN74:zUNYiN1
+V24JF^JX<0>f9GDfek<C@10
+R1
+w1587460950
+8E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt
+FE:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt
+L0 28
+R2
+r1
+!s85 0
+31
+!s108 1587460961.042000
+!s107 E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/counter18/simulation/modelsim|E:/software/altera/13.0/project/counter18/simulation/modelsim/counter18.vt|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+E:/software/altera/13.0/project/counter18/simulation/modelsim -O0

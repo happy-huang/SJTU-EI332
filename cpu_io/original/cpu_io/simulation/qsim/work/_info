@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\cpu_io\simulation\qsim
+vcpu_io
+Z1 IhTELbECc@e4Ff`]h=zA5O1
+Z2 Vd@b4l537LMi?@;ZgORD8j0
+Z3 dE:\software\altera\13.0\project\cpu_io\simulation\qsim
+Z4 w1590137236
+Z5 8cpu_io.vo
+Z6 Fcpu_io.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|cpu_io.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 Bj:nC[DVzF5UVCfEL:29Q0
+!s85 0
+Z11 !s108 1590137238.018000
+Z12 !s107 cpu_io.vo|
+!s101 -O0
+vcpu_io_vlg_check_tst
+!i10b 1
+Z13 !s100 SazZlJZ>kP]?FQUMeNkkK2
+Z14 Io98_8=T2U4NaLl;Q5oN6i3
+Z15 VAOdzL_63dEVM1YloieQZz1
+R3
+Z16 w1590137235
+Z17 8cpu_io.vt
+Z18 Fcpu_io.vt
+L0 79
+R7
+r1
+!s85 0
+31
+Z19 !s108 1590137238.856000
+Z20 !s107 cpu_io.vt|
+Z21 !s90 -work|work|cpu_io.vt|
+!s101 -O0
+R9
+vcpu_io_vlg_sample_tst
+!i10b 1
+Z22 !s100 OcfkD@FUljP0ihiEdb7KY0
+Z23 I3eRojEfXiOJhO8F77ZYP=0
+Z24 VJjkJgVagF@FlKZGlf<aTb1
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcpu_io_vlg_vec_tst
+!i10b 1
+Z25 !s100 zOfm=<eGGTcOA6Sif0eBj3
+Z26 Ioa=z^6Xg?0d`J@0b[iFTX2
+Z27 V[R7NMCo5T4cAgm<P]Rk:O2
+R3
+R16
+R17
+R18
+Z28 L0 951
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

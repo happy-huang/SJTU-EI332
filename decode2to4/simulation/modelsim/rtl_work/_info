@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\software\altera\13.0\project\decode2to4\simulation\modelsim
+vdecode2to4
+I@>dJZQW3_Pkd_=6bV1F?P1
+VBDPo9]?^N`C5RNUDOZC4B1
+Z1 dE:\software\altera\13.0\project\decode2to4\simulation\modelsim
+w1587042324
+8E:/software/altera/13.0/project/decode2to4/decode2to4.v
+FE:/software/altera/13.0/project/decode2to4/decode2to4.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 eTRmjf@Z`CbRUjFQl^E;Z1
+!s85 0
+!s108 1587042466.426000
+!s107 E:/software/altera/13.0/project/decode2to4/decode2to4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/decode2to4|E:/software/altera/13.0/project/decode2to4/decode2to4.v|
+!s101 -O0
+Z4 !s92 -vlog01compat -work work +incdir+E:/software/altera/13.0/project/decode2to4 -O0
+vdecode2to4_tb
+!i10b 1
+!s100 2MH>i0Z>77d==@oIbf;Ld3
+I0TF60RS`N7d5kK9Smo@f;2
+Vkl9mm9`:[L=@m[ZzCG5V42
+R1
+w1587042373
+8E:/software/altera/13.0/project/decode2to4/decode2to4_tb.v
+FE:/software/altera/13.0/project/decode2to4/decode2to4_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1587042466.728000
+!s107 E:/software/altera/13.0/project/decode2to4/decode2to4_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/software/altera/13.0/project/decode2to4|E:/software/altera/13.0/project/decode2to4/decode2to4_tb.v|
+!s101 -O0
+R3
+R4

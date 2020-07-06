@@ -1,0 +1,28 @@
+|counter18
+clk => counter[0]~reg0.CLK
+clk => counter[1]~reg0.CLK
+clk => counter[2]~reg0.CLK
+clk => counter[3]~reg0.CLK
+clk => counter[4]~reg0.CLK
+clr => counter[0]~reg0.ACLR
+clr => counter[1]~reg0.ACLR
+clr => counter[2]~reg0.ACLR
+clr => counter[3]~reg0.ACLR
+clr => counter[4]~reg0.ACLR
+ld => counter.OUTPUTSELECT
+ld => counter.OUTPUTSELECT
+ld => counter.OUTPUTSELECT
+ld => counter.OUTPUTSELECT
+ld => counter.OUTPUTSELECT
+counter[0] <= counter[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+counter[1] <= counter[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+counter[2] <= counter[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+counter[3] <= counter[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+counter[4] <= counter[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+data[0] => counter.DATAB
+data[1] => counter.DATAB
+data[2] => counter.DATAB
+data[3] => counter.DATAB
+data[4] => counter.DATAB
+
+

@@ -1,0 +1,8 @@
+module in_port(outsidein, inportout);
+	input[4:0] outsidein;
+	
+	output[31,0] inportout;
+	
+	assign inportout = {{27{1'b0}}, outsidein};
+
+endmodule

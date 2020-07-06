@@ -1,0 +1,7 @@
+module in_port(outside_in, inport_out )
+	input[4:0] outside_in
+	output[31:0] inport_out
+	
+	assign inport_out = {{27{1'b0}, outside_in}
+	
+endmodule

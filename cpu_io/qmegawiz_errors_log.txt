@@ -1,0 +1,11 @@
+
+
+E:/software/altera/13.0/project/cpu_io/source/lpm_ram_dq_dram.v
+
+Jun 03 08AM:32:39>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+E:/software/altera/13.0/project/cpu_io/source/lpm_ram_dq_dram.v
+
+Jun 03 08AM:32:39>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
